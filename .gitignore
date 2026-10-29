@@ -1,5 +1,4 @@
 # 打包产物与构建缓存
-qr_scanner.exe
 build/
 dist/
 *.spec
